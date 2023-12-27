@@ -26,7 +26,7 @@ export default function Categories() {
         <div className='col'>
             <div className='category text-center'>
                 <img src='https://rukminim1.flixcart.com/flap/64/64/image/69c6589653afdb9a.png?q=100'></img>
-                    <div>Electronics</div>
+                    <div>Electronics</div>m
             </div>
         </div>
         <div className='col'>
